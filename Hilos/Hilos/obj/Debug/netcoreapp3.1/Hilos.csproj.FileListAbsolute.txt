@@ -1,0 +1,13 @@
+C:\Users\Usuario Dell I3\source\repos\Hilos\Hilos\bin\Debug\netcoreapp3.1\Hilos.exe
+C:\Users\Usuario Dell I3\source\repos\Hilos\Hilos\bin\Debug\netcoreapp3.1\Hilos.deps.json
+C:\Users\Usuario Dell I3\source\repos\Hilos\Hilos\bin\Debug\netcoreapp3.1\Hilos.runtimeconfig.json
+C:\Users\Usuario Dell I3\source\repos\Hilos\Hilos\bin\Debug\netcoreapp3.1\Hilos.runtimeconfig.dev.json
+C:\Users\Usuario Dell I3\source\repos\Hilos\Hilos\bin\Debug\netcoreapp3.1\Hilos.dll
+C:\Users\Usuario Dell I3\source\repos\Hilos\Hilos\bin\Debug\netcoreapp3.1\Hilos.pdb
+C:\Users\Usuario Dell I3\source\repos\Hilos\Hilos\obj\Debug\netcoreapp3.1\Hilos.csprojAssemblyReference.cache
+C:\Users\Usuario Dell I3\source\repos\Hilos\Hilos\obj\Debug\netcoreapp3.1\Hilos.AssemblyInfoInputs.cache
+C:\Users\Usuario Dell I3\source\repos\Hilos\Hilos\obj\Debug\netcoreapp3.1\Hilos.AssemblyInfo.cs
+C:\Users\Usuario Dell I3\source\repos\Hilos\Hilos\obj\Debug\netcoreapp3.1\Hilos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario Dell I3\source\repos\Hilos\Hilos\obj\Debug\netcoreapp3.1\Hilos.dll
+C:\Users\Usuario Dell I3\source\repos\Hilos\Hilos\obj\Debug\netcoreapp3.1\Hilos.pdb
+C:\Users\Usuario Dell I3\source\repos\Hilos\Hilos\obj\Debug\netcoreapp3.1\Hilos.genruntimeconfig.cache
